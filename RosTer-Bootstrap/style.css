@@ -1,0 +1,25 @@
+.mini-post{
+    height: 250px;
+    width: 250px;
+    margin: 0px 10px;
+}
+
+.post-icerik{
+    background-color: whitesmoke;
+    height: 200px;
+    margin: 5px 10px;
+    padding: 10px ;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(211, 204, 204);
+    padding-top: 10px;
+}
+
+footer li{
+    list-style-type: none;
+    color:inherit;
+    font-size: 16px;
+}
+
